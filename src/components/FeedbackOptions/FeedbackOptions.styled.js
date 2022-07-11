@@ -11,8 +11,8 @@ export const Button = styled.button`
   border-radius: 10px;
   box-shadow: 5px 2px 2px grey;
   cursor: pointer;
-  :hover,
-  :focus {
+  :hover
+  {
     background-color: green;
     box-shadow: 5px 2px 2px #123912;
     color: white;
